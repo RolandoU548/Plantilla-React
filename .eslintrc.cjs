@@ -30,6 +30,7 @@ module.exports = {
     quotes: "off",
     semi: "off",
     "space-before-function-paren": "off",
-    "import/no-absolute-path": "off"
+    "import/no-absolute-path": "off",
+    "indent": "off"
   }
 };
