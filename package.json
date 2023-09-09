@@ -1,5 +1,8 @@
 {
   "name": "plantilla-react",
+  "engines": {
+    "node": "18.x"
+  },
   "private": true,
   "version": "0.0.0",
   "main": "main.jsx",
@@ -11,11 +14,28 @@
     "preview": "vite preview",
     "format": "prettier --write ."
   },
-  "author": {
-    "name": "Rolando Uzcategui",
-    "email": "rolandou548@gmail.com",
-    "url": "https://github.com/RolandoU548"
-  },
+  "authors": [
+    {
+      "name": "Rolando Uzcategui",
+      "email": "rolandou548@gmail.com",
+      "url": "https://github.com/RolandoU548"
+    },
+    {
+      "name": "Roberto Vargas",
+      "email": "xroberv@gmail.com",
+      "url": "https://github.com/RVSolutionsplus507"
+    },
+    {
+      "name": "Sebastian Castro",
+      "email": "sebastiancastrorajbe@gmail.com",
+      "url": "https://github.com/sicr2000"
+    },
+    {
+      "name": "Sebastian Lopez",
+      "email": "sals180801@hotmail.com",
+      "url": "https://github.com/sebastianlopezs"
+    }
+  ],
   "dependencies": {
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
