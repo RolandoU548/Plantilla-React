@@ -14,28 +14,11 @@
     "preview": "vite preview",
     "format": "prettier --write ."
   },
-  "authors": [
-    {
-      "name": "Rolando Uzcategui",
-      "email": "rolandou548@gmail.com",
-      "url": "https://github.com/RolandoU548"
-    },
-    {
-      "name": "Roberto Vargas",
-      "email": "xroberv@gmail.com",
-      "url": "https://github.com/RVSolutionsplus507"
-    },
-    {
-      "name": "Sebastian Castro",
-      "email": "sebastiancastrorajbe@gmail.com",
-      "url": "https://github.com/sicr2000"
-    },
-    {
-      "name": "Sebastian Lopez",
-      "email": "sals180801@hotmail.com",
-      "url": "https://github.com/sebastianlopezs"
-    }
-  ],
+  "author": {
+    "name": "Rolando Uzcategui",
+    "email": "rolandou548@gmail.com",
+    "url": "https://github.com/RolandoU548"
+  },
   "dependencies": {
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
