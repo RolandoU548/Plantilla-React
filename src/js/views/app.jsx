@@ -1,9 +1,9 @@
 import React, { useState } from "react";
-import reactLogo from "../../assets/react.svg";
+import reactLogo from "../../assets/icons/react.svg";
 import viteLogo from "/vite.svg";
-import "../../css/home.css";
+import "../../css/app.css";
 
-export const Home = () => {
+export const App = () => {
   const [count, setCount] = useState(0);
 
   return (
